@@ -708,6 +708,8 @@ section {
   margin-top: 20px;
   padding-top: 16px;
   border-top: 1px solid var(--border);
+  flex-direction: column;
+  gap: 5px;
 }
 .project-lang {
   font-size: 0.65rem;
